@@ -64,6 +64,4 @@ Statuses: *Requested → Borrowed → Returned*. A request only moves forward.
 - A student cannot request a book with no copies available, or one they already have requested or borrowed.
 - The API rejects invalid transitions with a 422 response.
 
-## 5. Features
-
-| Area | Features |
+##
