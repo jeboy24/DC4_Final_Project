@@ -67,5 +67,3 @@ Statuses: *Requested → Borrowed → Returned*. A request only moves forward.
 ## 5. Features
 
 | Area | Features |
-|---|---|
-| *Authentication*
